@@ -4,9 +4,9 @@ Version: 0.1.0
 Summary: 🎵 Advanced Telegram Music Bot by TheAloneTeam — PyroFork + ntgcalls + YouTube + Spotify
 Author-email: TheAloneTeam <riteshcoderx@gmail.com>
 License: MIT
-Project-URL: Repository, https://github.com/TheAloneTeam/AloneMusic
-Project-URL: Issues, https://github.com/TheAloneTeam/AloneMusic/issues
-Project-URL: Changelog, https://github.com/TheAloneTeam/AloneMusic/blob/master/CHANGELOG.md
+Project-URL: Repository, https://github.com/pallavisarkaar07/AloneMusic
+Project-URL: Issues, https://github.com/pallavisarkaar07/AloneMusic/issues
+Project-URL: Changelog, https://github.com/pallavisarkaar07/AloneMusic/blob/master/CHANGELOG.md
 Keywords: telegram,music,bot,pyrogram,pyrofork,pytgcalls,youtube,spotify
 Classifier: Environment :: Console
 Classifier: Framework :: AsyncIO
@@ -57,8 +57,8 @@ Dynamic: license-file
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/TheAloneTeam/AloneMusic?style=social)](https://github.com/TheAloneTeam/AloneMusic/stargazers)
-[![Forks](https://img.shields.io/github/forks/TheAloneTeam/AloneMusic?style=social)](https://github.com/TheAloneTeam/AloneMusic/network/members)
+[![Stars](https://img.shields.io/github/stars/pallavisarkaar07/AloneMusic?style=social)](https://github.com/TheAloneTeam/AloneMusic/stargazers)
+[![Forks](https://img.shields.io/github/forks/pallavisarkaar07/AloneMusic?style=social)](https://github.com/TheAloneTeam/AloneMusic/network/members)
 
 ---
 
@@ -80,11 +80,9 @@ It’s designed to be lightweight, fast, and customizable.
 ---
 ## ❤️ Support
 
-💬 **Telegram:** [AloneMusic](https://t.me/TheTeamHacker)  
+💬 **Telegram:** [pallaviMusic](https://t.me/+-k8Y8mYrdSBjODI1)  
 
-🆘 **Any Problem? DM:** [𝚨Łꪮⲛ𝛆 🚩𝗧ε᧘‌ᴍ](https://t.me/codeshivu)
-
-📂 **GitHub Issues:** [Report a Problem](https://github.com/TheAloneTeam/AloneMusic/issues/new)
+🆘 **Any Problem? DM:** [pallavi sarkar](https://t.me/RPShyariwold)
 
 ---
 
@@ -99,7 +97,7 @@ It’s designed to be lightweight, fast, and customizable.
 ### 🔹 1. Deploy on **Heroku** (One Click)
 Click this button to deploy instantly on **Heroku**:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheAloneTeam/AloneMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pallavisarkaar07/AloneMusic)
 
 
 - **Update System and Install Dependencies**:  
